@@ -1,0 +1,44 @@
+#colorButton {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#colorButton:hover {
+    background-color: darkgreen;
+}
+#greetButton {
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#greetButton:hover {
+    background-color: darkorange;
+}
+div {
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 100px;
+}
+
+#calculateButton {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#calculateButton:hover {
+    background-color: darkblue;
+}
+
